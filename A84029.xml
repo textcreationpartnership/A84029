@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English souldiers standard to repaire to, for wisdome and understanding, in these doleful back-sliding times. To be read by every honest officer to his souldiers; and by the souldiers, one to another.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84029</idno>
+            <idno type="STC">Wing E3119</idno>
+            <idno type="STC">Thomason E550_1</idno>
+            <idno type="STC">ESTC R205638</idno>
+            <idno type="EEBO-CITATION">99864958</idno>
+            <idno type="PROQUEST">99864958</idno>
+            <idno type="VID">117191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117191)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English souldiers standard to repaire to, for wisdome and understanding, in these doleful back-sliding times. To be read by every honest officer to his souldiers; and by the souldiers, one to another.</title>
+                  <author>Walwyn, William, 1600-1681, attributed name.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to William Walwyn; this attribution rejected by McMichael and Taft, The writings of William Walwyn, p.532.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 9th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117191:1"/>
+            <pb facs="tcp:117191:1" rendition="simple:additions"/>
+            <p>The Engliſh Souldiers STANDARD To Repaire to, FOR WISDOME AND UNDERSTANDING, <hi>In theſe doleful back-ſliding Times.</hi>
+            </p>
+            <p>To be read by every honeſt Officer to his Souldiers; and by the Soul<g ref="char:EOLhyphen"/>diers, one to another.</p>
+            <p>Printed in the Yeer, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117191:2"/>
+            <pb n="3" facs="tcp:117191:2"/>
+            <head>The Engliſh Souldiers <hi>Standard</hi> to repair to, for Wiſdom and <g ref="char:V">Ʋ</g>nderſtanding in theſe doleful backſliding times.</head>
+            <head type="sub">To be read by every honeſt Officer to his Souldiers, and by the Souldiers one to another.</head>
+            <p>IT was moſt worthily, ſaid of you in your Declaration of the 14 of <hi>June</hi> 1647, <hi>page</hi> 6, That you were not a meer merce<g ref="char:EOLhyphen"/>nary Army, hired to ſerve any arbitrary power of a State; but were called forth, and conjured by the ſeverall Declarations of Parliament, to the defence of your own and the peoples juſt Rights and Liberties: and ſo you took up Arms in judgment and conſci<g ref="char:EOLhyphen"/>ence, to thoſe ends.</p>
+            <p>Which expreſſions of yours, and the like, gave ſo great content and ſatisfaction to all ſorts of well-minded people, that the mean<g ref="char:EOLhyphen"/>eſt private Souldier amongſt you was more honourable in their e<g ref="char:EOLhyphen"/>ſteem, then the moſt glorious out-ſide man in the world: you had been their guard by day, and their defence by night; you delivered them from the Bear, and from the Lion; and when the Parliament began to turn Tyrants themſelves, and would have broken you in pieces by dividing of you, and ſending a part of you for <hi>Ireland,</hi> that ſo they might without obſtacle have trampled upon the peoples Liberties, you reſolved, as became an Army whom the Lord had bleſſed, to deliver the people alſo from thoſe uncir<g ref="char:EOLhyphen"/>cumciſed Philiſtims.</p>
+            <p>And when they would have terrified you from ſo doing, with urging, that you reſiſted Authority; you ſpared not to tell them (and that truly) That it is no reſiſting of Magiſtracy, to ſide with the juſt principles and Law of Nature and Nations: And that the Souldiery may lawfully hold the hands of the Generall who will turn his Canon (meaning his ſtrength, power and authority) againſt:
+<pb n="4" facs="tcp:117191:3"/>his Army, on purpoſe to deſtroy (or enſlave) them: And ſuch (you ſay) were the proceedings of our Anceſtours of famous me<g ref="char:EOLhyphen"/>morie, to the purchaſing of ſuch Rights and Liberties as they have enjoyed through the price of their bloud; and we both by that, and the later bloud of our dear friends and fellow-ſouldiers (with the hazard of our own) do now lay claim to.</p>
+            <p>And truly friends, it will be neceſſary for you to look quickly about you, and that to purpoſe, and to be like unto our Ance<g ref="char:EOLhyphen"/>ſtors, or like unto your ſelves in what you then declared: and to enquire, whether you and the reſt of the people of this Nation are yet reſtored to thoſe their Rights and Liberties: and accordingly to be ſatisfied in your Judgments and Conſciences.</p>
+            <p>You have been many of you Country-men, and know well what a miſerable burthen Tythes and Free-quarter are: many of you have been Tradeſ-men and laborious people, and can be ſenſible how intolerable the burthen of Exciſe, and Cuſtoms, and Mono<g ref="char:EOLhyphen"/>polies in Trade are, Officers and Uſurers running away with that which ſhould pay you, and the poor labour for; to the ruine of Trade. You cannot but know what it is to live continually in priſon, in penury and beggery, hearing and ſeeing the miſery of ſuch poor people in all places.</p>
+            <p>You know, we live under unknown Laws, written in canting French, vext and moleſted with a whole drove of corrupt Judges, Lawyers, Jaylors, and the like Caterpillers of the Common-wealth.</p>
+            <p>Your great Officers indeed have reduced the Supreme Autho<g ref="char:EOLhyphen"/>rity into one Juriſdi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion: but what are we or you the better, when it is uſed to ſet up now ways of tryals for our Lives and Li<g ref="char:EOLhyphen"/>berties, new Courts of Juſtice, denying both you and us (when they pleaſe) the benefit of tryals by twelve ſworn men: when al<g ref="char:EOLhyphen"/>ready they have puniſh'd for matters of Religion, as other corrupt Parliaments uſe to do: and when they have erected a Councell of State that already examines men upon Interrogatories againſt themſelves in criminall Caſes: when they ſtop the Preſſe, that no information ſhall be given to you or the people, and imploy worſe beagles to hunt after books, then the High-Commiſſion or Star-Chamber ever did?</p>
+            <p>Nay Friends, where are you and our Liberties, when your Gene<g ref="char:EOLhyphen"/>rall Councel of Officers make it ſo hainous a crime for Souldiers to
+<pb n="5" facs="tcp:117191:3"/>petition Parliaments, without licence of their Officers.— It is but few years ſince that in <hi>London</hi> the Aldermen of the City endea<g ref="char:EOLhyphen"/>voured that no Citizens ſhould petition the Parliament, but firſt they ſhould paſſe the Common Councel.</p>
+            <p>But it was when thoſe great men intended to graſp into their hands all power both of Parliament and people; as appeared ſoon after by their pernitious Remonſtrances, and deſperate Engage<g ref="char:EOLhyphen"/>ments; which we beleeve had done much more miſchief, if honeſt and reſolved Citizens had not made bold with their Greatſhips, and frequently viſited the Houſe with Petitions, which would as ſoon have paſt the ſire, as the Common Councell.</p>
+            <p>And you had beſt look unto your ſelves, and to your and our Liberties, when as your Officers (many of them) begin to combine together, and puniſh men for petitioning; aſſure your ſelves, if they go on, your Liberties and ours are not long-lived; nay, are they not at laſt gaſp, when they are grown ſo raging mad, as to impor<g ref="char:EOLhyphen"/>tune for a Law to have power in themſelv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to hang and put to death any perſon, though not of the Army, as ſhall hold any diſ<g ref="char:EOLhyphen"/>courſe with Souldiers about their own and the peoples juſt Rights and Liberties? — Pray friends, were theſe men any part of the Army when you publiſhed to the world, that you took up Arms in Judgment and Conſcience, for the peoples juſt Rights and Liber<g ref="char:EOLhyphen"/>ties? or have thoſe your Officers forgot themſelves, and utterly loſt their conſciences, and all ſenſe of their then promiſes, Decla<g ref="char:EOLhyphen"/>rations, and Remonſtrances? if ſo, you ſhall do well to remember them, as you did thoſe Officers of yours that made ſcruple to engage with you for your right of petitioning, and for the peoples Liberties at <hi>New-market.</hi>
+            </p>
+            <p>Or are theſe Officers uſurpers, and not properly the Councell that was then choſen by the Army? pray look to it, for your De<g ref="char:EOLhyphen"/>clarations and their works differ exceedingly: the one tending to freedom, but the latter to ſuch a bondage as all true Engliſh Soul<g ref="char:EOLhyphen"/>diers will abhor; and if you find that you have not choſen them to deal with you in thoſe affairs of the Common-wealth, which con<g ref="char:EOLhyphen"/>cern every private Souldier, as the greateſt Commander: What have you then to do, but to chuſe out from amongſt your ſelves, ſuch faithfull men, whether Officers or Souldiers, as in thoſe doubtfull ſtaggering times, have ſtood firm to their firſt principles, and do evidence by their humility and reſolution, that they took
+<pb n="6" facs="tcp:117191:4"/>up arms in judgement and Conſcience, for their own &amp; the peoples juſt Rights, &amp; Liberties: &amp; ſuch as rather then the Nation ſhould be deprived thereof, being purchaſted with ſo vaſt expence of blood, durſt hold the hands of the Generall, and all the Generall Officers, if they ſhall perſiſt to turn their Cannons, their ſtrength, power, and authority to the enſlaving of the Common-wealth.</p>
+            <p>For what elſe is become of that judgment and Conſcience, in which you took up armes? certainly your Conſciences cannot be ſatisfied that your Generall, and Generall Officers, no nor the new Generall Councell of Officers, (which ſeldom exceeds three<g ref="char:EOLhyphen"/>ſcore perſons) ſhall after all your tedious ſtrivings, and ſtruglings for liberty, againſt all other parties, make both you and us, ſlaves to themſelves in a Counſell of State, or their own packt Parlia<g ref="char:EOLhyphen"/>ment? certainly Tyranny, Cruelty, and continuance of oppreſ<g ref="char:EOLhyphen"/>ſion, is not the leſſe becauſe your Officers are now the Authors and continuers of it: but ſhould rather be eſteemed the greater and more abominable, by how much their promiſes have exceeded o<g ref="char:EOLhyphen"/>thers. it cannot ſtand either with found judgment, or good Conſci<g ref="char:EOLhyphen"/>ence, that now you ſhould be ſo far reſpecters of perſons, as to beare with that wickededneſs, and treachery in your pretended friends and Commanders, which you have by many years war laboured to deſtroy and root out, in two great and powerfull parties.</p>
+            <p>You are ſeriouſly to conſider that you have an alſeeing God to give an account unto, and are not to pleaſe your Commanders in fulfilling their wils; but to be ſure that you give ſatisfaction to your Conſcience in the well pleaſing of Almighty God.</p>
+            <p>And it will be no ſatisfaction at all to his juſtice, when he ſhall call you to an account for the killing and ſlaying of men, for you to ſay you that did it in obedience to the Commands of your Generall and Officers; for you muſt note that it is thoſe juſt ends, the rights &amp; liberties of the people, that only can acquit you from being murther<g ref="char:EOLhyphen"/>ers in all you have done, ſo that you may at highly once pleaſe your commanders in killing and ſlaying of men, to make way for their greatneſs, wealth, and domination; &amp; more highly diſpleaſe God in being murtherers in ſo doing<g ref="char:punc">▪</g> nor can you eſcape his heavy Judg<g ref="char:EOLhyphen"/>ments, except you perſevere and go on to thoſe juſt ends, unto which you have made your way as through a Sea of blood, and to be no reſpecters of perſons, but to take whomſoever for an enemy that ſhall oppoſe you therein.</p>
+            <pb n="7" facs="tcp:117191:4"/>
+            <p>It is obſerved that you are very ſtrict aga<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t your own fellow Souldiers, in caſe they offend, though in ſmall matters, inflicting very ſevere puniſhments for particular offences; and why then look you not after and conſider the ways of your Commanders, but let them paſs with all their deluſions of the Army, abuſing the faith and credit thereof, with all ſorts of people, breaking your Coun<g ref="char:EOLhyphen"/>ſell of Agitators, corrupting and terrifying both Officers and Soul<g ref="char:EOLhyphen"/>diers, to mould them to their own vile and unworththy ends: and are now in a ready way to make themſelves, and their creatures in Parliament, and elſewhere abſolute Maſters over the Common-wealth? Nay do you not help them in it for want of conſideration? for why elſe are you ſo ready to execute their cruell ſentences up<g ref="char:EOLhyphen"/>on honeſt and faithfull Souldiers, as your ſhooting the man to death at <hi>Ware,</hi> and impriſoning of divers about the agreement of the peo<g ref="char:EOLhyphen"/>ple? And now alſo of late your forcing of five worthy Souldiers to ride the Horſe, with their faces to the Horſe tails, and breaking their ſwords over their heads, for ſtanding to their and your Right in petitioning, and for preſenting a letter to your cruell Coun<g ref="char:EOLhyphen"/>ſell in juſtification thereof?</p>
+            <p>It ſeems it is a very true proverbe, that honors change manners, and is fully verified in your great Commanders, whom the fore recited Declaration of the 14 of <hi>June</hi> 1647, earneſtly deſired that the right and freedom of the people to preſent petitions to the Parliament might be cleared and vindicated, haveing made it before hainous crime in <hi>Hollis,</hi> and <hi>Stapleton,</hi> to hinder the Souldiers from petitioning; and yet now being in honor and power, judge, and ſentence<g ref="char:punc">▪</g> honeſt faithfull Souldiers, to baſe unworthy puniſh<g ref="char:EOLhyphen"/>ments, for but reſolving to petition.</p>
+            <p>But truely friends, ſuffer this and ſuffer any thing; experi<g ref="char:EOLhyphen"/>ence ſaith, he that takes one box on the ear invites another: and when Souldiers that ſhould be men in all things, ſtand ſtill and ſuf<g ref="char:EOLhyphen"/>fer their fellow Souldiers to be thus abuſed by a pack of Officers, no marvell if theſe officers turn Tyrants, and preſume to do any thing to any man:</p>
+            <p>What right hath a Generall, Generall Officers, or a Counſell of Officers, to petition more then the meaneſt private Souldier? ſurely, to be a Generall is not to be above Law, except he make himſelf a Tyrant; is he or any Officer any other but a perſon un<g ref="char:EOLhyphen"/>der authority and accomptable for diſcharge of their truſts? nor is
+<pb n="8" facs="tcp:117191:5"/>a private Souldier a ſlave becauſe he is a private Souldier: but to have as full benefit of the Law, as clear a uſe of his liberty in petiti<g ref="char:EOLhyphen"/>oning, or otherwayes as his Generall, of Officers; and there is no ſurer mark to know a Tyrant by, or ſuch as would be ſo, then for any to argue otherwiſe: And it will be good to mark ſuch with a black coale.</p>
+            <p>Pray conſider it, and lay it to heart: Is it not a ſhame that your fellow-ſouldiers ſhould undergo ſo ſlaviſh, ſo ſevere and painfull puniſhment, as to ride the woodden horſe, or run the gauntlet, and be whipt for ſmall particular offences, and that you ſhould ſuffer in the mean time your Officers and Commanders to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn Ty<g ref="char:EOLhyphen"/>rants, and never puniſh them at all for it? Is this to take up Arms in Judgment and Conſcience, when one man, being your Comman<g ref="char:EOLhyphen"/>der, may (as the proverb ſaith ſteal a hor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and you will hang a private ſouldier for but looking over the hedge? for what compa<g ref="char:EOLhyphen"/>riſon is there between a private ſouldiers offence, and an Officers turning a Bear, a Wolf, a Tyrant?</p>
+            <p>Beleeve it, if you look not to it ſpeedily, your Officers are in a ready way to make you and the Common-weal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h abſolute ſlaves; for they mould and faſhion the Army even how they pleaſe; prefer<g ref="char:EOLhyphen"/>ring none to commands but flatterers and ſervile men, and catch at all advantages to turn all ſuch out of command as are anyway ſen<g ref="char:EOLhyphen"/>ſible of the rights of the people; and have taken ſo abſolute a power therein ſo long, that they have done very much of their work:</p>
+            <p>And do beleive all is formed to their own bent, and that's the reaſon they preſume now to propoſe the ſending of many of you for Ireland, pretending extraordinary neceſſity, and that that Na<g ref="char:EOLhyphen"/>tion otherwiſe will be utterly loſt:— but ſurely all parties are not ſo ſoon agreed; 'twill not be amiſs to make two words to ſuch a bargain.</p>
+            <p>This you know is not the firſt fetch for Ireland; and you muſt note 'tis neither Ireland, nor Scotland, nor any other forces they fear, but the ſting of their own conſciences perpetually tels them they have dealt moſt perfideouſly, and Tyrannouſly with the Army, and Common-wealth; and they perceive by the many motions of Souldiers, and others, that the Army is likely to draw out Adjuta<g ref="char:EOLhyphen"/>tors once more, whoſe morning they know will be the evening of their domination, and the next day they fear will prove their dooms day:</p>
+            <pb n="9" facs="tcp:117191:5"/>
+            <p>To avoid which, in all poſt haſte they muſt be divided, and ſent ſome one way, and ſome another; but if you be wiſe, ſtay a little, or you may perhaps never meet again. Certainly before you go, it will be good for you to ſee thoſe Rights and Liberties of the people, for which you took up Arms in judgment and conſcience, cleared and ſecured, by a full and clear Agreement of the people; and not to leave them at the meer arbitrary mercy of a Councel of State, or a pack'd Parliament: for ſince they have dared to gull and cheat you to your faces, and whileſt you are hereabouts, and together; what in<g ref="char:EOLhyphen"/>humane cruelties may they not do in your abſence? eſpecially, ſince they incline to raiſe more forces of a mercenary and ſervile nature, that ſhall make no queſtions for conſcience ſake about their Com<g ref="char:EOLhyphen"/>mands, as you have been uſed to do; and then fare-well the Eng<g ref="char:EOLhyphen"/>liſh Liberties for ever.</p>
+            <p>What-ever they may tell you, or however they may flatter you, there is no leſs danger lies at the bottom of this buſineſs for <hi>Ireland,</hi> and therefore it behoves every one of you to lay it to heart: and before you reſolve upon a new Engagement, firſt ſee a new Repre<g ref="char:EOLhyphen"/>ſentative of the Army eſtabliſhed, by the free Election of every Re<g ref="char:EOLhyphen"/>giment; and refer your ſelves to their Counſel and advice in all things, to be diſpoſed of as they ſhall ſee cauſe; and neither admit of disbandings, nor of new liſtings, nor of any undertaking for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or any other ſervice, but as that Councell ſhall adviſe.</p>
+            <p>For conſider, as things now ſtand, to what end you ſhould hazard your lives againſt the Iriſh: have you not been fighting theſe ſeven years in <hi>England</hi> for Rights and Liberties, that you are yet deluded of? and that too, when as none can hinder you of them but your own Officers, under whom you have fought? and will you go on ſtil to kil, ſlay and murther men, to make them as abſolute Lords and Maſters over <hi>Ireland</hi> as you have made them over <hi>England?</hi> or is it your ambition to reduce the Iriſh to the happineſſe of Tythes upon trebble dammages, to Exciſe, Cuſtoms and Monopolies in Trades? or to fill their priſons with poor diſabled priſoners, to fill their Land with ſwarms of beggers; to enrich their Parliament-men, and im<g ref="char:EOLhyphen"/>poveriſh their people; to take down Monarchical Tyranny, and ſet up an Ariſtocratical Tyranny; or to over-ſpread that Nation as this yet is, with ſuch Waſps and Hornets as our Lawyers and their Con<g ref="char:EOLhyphen"/>federates? Or if you intend not this, or would be ſorry to ſee no better effects of your undertakings, it certainly concerns you in the firſt place, and before you go, to ſee thoſe evils reformed here; that
+<pb n="5" facs="tcp:117191:6"/>when occaſion ſhall juſtly invite you thither, you may carry a good platform in your hands, ſuch a one as poſſibly they will never fight againſt: And it would be much more to be wiſhed, that you might overcome them by juſt and equall offers, then by ſtrength and force. And except you begin and proceed thus, how you will ſatisfie your conſciences, is not diſcernable.</p>
+            <p>Therefore look to it, and be not ſurpriſed neither with the ſud<g ref="char:EOLhyphen"/>denneſs nor the plauſibleneſs that may be put upon it by your Gene<g ref="char:EOLhyphen"/>ral, or General Councels; the killing and ſlaying of men, or the ma<g ref="char:EOLhyphen"/>king of a War, being a thing that every particular man of you muſt give a ſtrict account to God for; in whoſe fight your Commanders are of as ſmal weight, when they come to be put into his juſt balance, as the meaneſt of you; and at whoſe great day, theſe will be found infallible truths, though now they will be called dividing doctrines.</p>
+            <p>But you muſt be ſtedfaſt to truths, and not be ſtartled from your principles, nor from your promiſes &amp; engagements, by the revilings of men: theſe being properly to be called Dividers, that forſake the ſociety of honeſt men, becauſe they ſtick cloſe to their principles: it being alſo certainly good and juſtifiable to divide for good, rather then to unite for evill.</p>
+            <p>Labour by all means every man of you to preſerve the love of the people toward you, and upon all occaſions make it evident that it is for their good you continue in Arms, be courteous and gentle to<g ref="char:EOLhyphen"/>wards all you meet, whether in the ſtreets, or upon the Roads; give them kind language &amp; civil reſpects, without juſtling, or bruſhing, or buſtling for the way; a thing which ſome proud Officers have che<g ref="char:EOLhyphen"/>riſh'd too much in ſome rude perſons: and at your Quarters exerciſe your ſelves in harmleſs refreſhments, without noiſe or laviſh expence and give the preeminence to the Maſter and Miſtris of the Family, whether rich or poor; and ſo you have food and raiment, be there<g ref="char:EOLhyphen"/>with content, without regard of bravery or delicateneſs; eat not but for hunger, which makes all things ſweet; and cloath not but for health; and your happineſs will not be far to ſeek.</p>
+            <p>Beware of entertaining if thoughts of any man, or of any condition of men without good proof; try and examine all things which ſhall be propoſed unto you to act upon; and act or not act as you find the things good or evil; and be not diverted from your own under<g ref="char:EOLhyphen"/>ſtandings, by your reſpect to mens perſons, nor terrified by aſperſi<g ref="char:EOLhyphen"/>ons caſt upon the propoſers, which from our Saviours time to this day hath ever been the obſtructer of all good endevours: and if
+<pb n="11" facs="tcp:117191:6"/>you mind the preſent proceedings, you will find it was never more pra<g ref="char:EOLhyphen"/>ctiſed then now; and it wil never go wel with the Publick, till you mark all aſperſers as men that labour to deceive; and know what they have to alledge againſt the matter propoſed, without reflection upon the per<g ref="char:EOLhyphen"/>ſons that propoſe it, or you will never go on with any thing of worth.</p>
+            <p>Its come to a pretty paſs with moſt of your great Officers: they would have you to obey their commands, though to the killing and flaying of men, without asking a reaſon: and as the Church of <hi>Rome</hi> holds the poor ignorant Papiſts in blind obedience, who are taught <hi>to beleeve as the Church beleeves;</hi> ſo would they have it with you, to be led this way, or that way (as men lead horſes) into <hi>Ireland,</hi> or <hi>Scotland,</hi> or any whither, and as horſes ſhall be whipped, or hanged as mutiniers, if you but diſ<g ref="char:EOLhyphen"/>pute the cauſe, or but petition to have the cauſe ſtated before you go, that your judgments and conſciences may be fully ſatisfied (as becometh honeſt men and Chriſtians) in the lawfulneſs of whatſoever you under<g ref="char:EOLhyphen"/>take. But as there is no Tyrants like thoſe of <hi>Rome,</hi> through the ſottiſh ignorance of the Papiſts, ſo is there nothing will make your Officers ſo perfect tyrants, as this kind of blind obedience in you: nor wil any thing demonſtrate that you took up arms in judgment and conſcience, but that every one of you be ſatisfied in both, before you undertake or engage in any ſervice: and that by ſound conſideration you wipe off that ſcandal which your great Officers have fixt upon you; that is, that if they but provide the Troopers good pay, they make no queſtion but to command them any whither, and that they are then aſſured the Foot will follow the Horſe whitherſoever they go. T'is a ſad ſtorie, but it is frequent in their diſcourſe, and no dout you know it; and ſhews to what ſtate they deſigne to bring you. On the other ſide, if any thing be propoſed to you that is good in it ſelf, and abſolutely neceſſarie for the peace &amp; freedom of the Common-wealth, how then do they beſtir themſelves, and even ſweat with labor to perſwade, that you ſee not to the bottom of it, that it is the moſt dangerous deſigne that ever was, that Jeſuits at the leaſt muſt be the authors of it, if not Levellers, who like <hi>Jack Cade,</hi> &amp; <hi>Wat Tiler,</hi> &amp; the Anabaptiſts of <hi>Munſter,</hi> would have all things common, wives &amp; all.</p>
+            <p>But if you rightly conſider, this doth but manifeſt unto you, that all Tyrants are directed by one and the ſame means; this being but the ve<g ref="char:EOLhyphen"/>ry ſame meaſure which was meaſured to the whole Army, a little be<g ref="char:EOLhyphen"/>fore you paſt through the City, by thoſe your oppoſers that were then ſetting up other Tyrannie.</p>
+            <p>Your General and Gen. Officers being then <hi>Jack Cade</hi> &amp; <hi>Wat Tiler,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat would have all things common: who now ſetting up for themſelves,
+<pb n="12" facs="tcp:117191:7"/>have packt a Parliament and a Councell of State for their purpoſe, muſt beſtow the ſame language upon them that oppoſe thoſe, as was beſtowed upon themſelves, and whileſt you live you may confidently build upon, that none but thoſe that would be Tyrants, will by aſperſions go about to terrifie men from relying upon their own underſtandings.</p>
+            <p>You have had very much experience: and if you do but any thing conſi<g ref="char:EOLhyphen"/>der &amp; reſolve, you ſhall very hardly be deceived; but aſſure your ſelves the great work in hand is how to deceive or corrupt you, it being im<g ref="char:EOLhyphen"/>poſſible otherwiſe for them to become Maſters of the Common-wealth.</p>
+            <p>And if they can but get a conſiderable part of you for Ireland before you ſee the Councell of State aboliſhed, and this Nation ſet upon ſuch ſure foundations of Freedom, as ſhall not be in the power of future Par<g ref="char:EOLhyphen"/>liaments to ſubvert, their work's done: nay if they cannot get you for Ireland as themſelves much doubt thereof, and have cauſe enough conſi<g ref="char:EOLhyphen"/>dering the difficulties attending; yet if they can but get a good part of you in to Scotland before you ſee thoſe Foundations of freedom ſetled firmly by an honeſt agreement of the people, nothing can hinder them of their deſigne.</p>
+            <p>Therefore be ſure to ſee this Nation well ſettled firſt: keep together here &amp; you may be confident none dare meddle with you from abroad, and when all things are to your mind at home, you may then ſafely caſt your eys abroad, but not before, nor will it ever be good for you to med<g ref="char:EOLhyphen"/>dle abroad but upon evident cauſe, upon good grounds, that you may engage upon ſound judgement and good conſcience; and not as moſt of the world doth through ambition, covetouſneſs, and revenge, the fomen<g ref="char:EOLhyphen"/>ters of moſt of the wars that ever were; &amp; tho religion, freedom, peace &amp; proſperity of the people, have been ever in the tongue, yea though ac<g ref="char:EOLhyphen"/>companied with faſtings &amp; prayings, &amp; long preachings, yet your experi<g ref="char:EOLhyphen"/>ences cannot but tell you, ambition, covetouſneſſe, and revenge have ever been at the heart; and God is diſcovering it to the whole world.</p>
+            <p>And may every one of you, and your wel-minded Officers, be therein effectuall inſtruments to his glory, and in the accompliſhment of the freedom, peace and happi<g ref="char:EOLhyphen"/>neſs of this miſerably abuſed Nation: And that you may be ſo, and neither be diverted nor terrified from ſetling your ſelves thereunto, and that with all your might, caſt your eys frequenly on this your <hi>Standard,</hi> and be diligent in ſearching into your own Conſci<g ref="char:EOLhyphen"/>ences, and ſwerve not from what you find to be your duty; prefer your Officers before others, if they inform your Judgements aright, and lead you to nothing but what is e<g ref="char:EOLhyphen"/>vidently juſt, obey them exactly after you are reſolved of the Juſtneſſe of the cauſe, but not before.</p>
+            <p>For he that runs to kill men meerly upon Authority, or others Judgments, or for money, is condemned of himſelf, in his Conſcience, as a murtherer, be the cauſe what it will; and firſt or laſt ſhall not eſcape the Judgments of God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
